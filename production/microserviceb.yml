@@ -8,6 +8,6 @@ spring:
     username: root
     password: 123456
 microservicea:
-  interval: 2000b
-  account: fanckyb
+  interval: 2000b.pro
+  account: fanckyb.pro
   
